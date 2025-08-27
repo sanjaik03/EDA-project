@@ -1,9 +1,0 @@
-EmployeeID,Name,Department,Age,Salary,JoiningDate,Gender,Location
-101,Alice,HR,29,50000.0,2015-06-01,F,New York
-102,Bob,IT,35,70000.0,2013-04-21,M,San Jose
-103,Charlie,Finance,30,65000.0,2016-03-12,M,Chicago
-104,David,IT,40,85000.0,2011-11-30,M,New York
-105,Eva,HR,28,,2018-08-15,F,Chicago
-106,Frank,Finance,38,72000.0,2014-07-19,M,San Jose
-107,Grace,IT,32,69000.0,2017-05-23,F,New York
-108,Alice,HR,29,50000.0,2015-06-01,F,New York
